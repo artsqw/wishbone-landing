@@ -4,8 +4,8 @@
      }
 
      .header__list {
-            gap: 19px;
-        }
+        gap: 19px;
+    }
 
      .logo {
         font-size: 22px;
@@ -120,17 +120,22 @@
 @media (max-width: 770px) {
     .home {
         flex-direction: column;
-        width: 200%;
+        width: 100%;
+    }
+
+    .home__information {
+        width: 100%;
     }
 
     .home__img {
         height: 100%;
+        width: 200%;
     }
 
     .our__container {
-    gap: 25px;
-    flex-direction: column;
-    align-items: center;
+        gap: 25px;
+        flex-direction: column;
+        align-items: center;
     }
 
     .our__information {
