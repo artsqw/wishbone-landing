@@ -16,8 +16,10 @@ The site was built entirely from scratch — no templates, no guides, just clean
 1. Building complex and responsive layouts using Flexbox and CSS Grid  
 2. Applying semantic HTML tags to improve accessibility and structure  
 3. Using various background-related CSS properties for layout styling  
+BUT she herself was added to me **consistently**.
 
-📌 Picture:
+👉 [View the site](https://artsqw.github.io/wishbone-landing)
+📌 Preview:
 <img width="1919" height="990" alt="изображение" src="https://github.com/user-attachments/assets/ea4f7ef1-78f8-4c47-9a6c-6fbe6e2f2736" />
 
 ---
@@ -34,7 +36,8 @@ The site was built entirely from scratch — no templates, no guides, just clean
 
 - Макет взят с [verstaem.online](https://verstaem.online/projects/wishbone/)
 - Верстка выполнена без использования готовых решений и гайдов
-- В изначальной версии проекта **отсутствует мобильная и планшетная адаптивность**
+- В изначальной версии проекта **отсутствует мобильная и планшетная адаптивность**,
+НО она была добавлена мной **самостоятельно**.
 
 ## 👌 Чему я научился в ходе работы над проектом
 
@@ -42,5 +45,6 @@ The site was built entirely from scratch — no templates, no guides, just clean
 2. Правильное использование семантических HTML-тегов для улучшения структуры документа  
 3. Применение различных CSS-свойств для оформления фоновых изображений 
 
+👉 [Перейти на сайт](https://artsqw.github.io/wishbone-landing)
 📌 Изображение:
 <img width="1919" height="990" alt="изображение" src="https://github.com/user-attachments/assets/ea4f7ef1-78f8-4c47-9a6c-6fbe6e2f2736" />
